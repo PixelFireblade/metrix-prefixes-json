@@ -1,0 +1,162 @@
+{
+    "yotta": {
+        "symbol": "Y",
+        "exp": 24,
+        "wordShort": "septillion",
+        "worldLong": "quadrillion",
+        "adoption": "1991",
+        "prefix": "yotta"
+    },
+    "zetta": {
+        "symbol": "Z",
+        "exp": 21,
+        "wordShort": "sextillion",
+        "worldLong": "trilliard",
+        "adoption": "1991",
+        "prefix": "zetta"
+    },
+    "exa": {
+        "symbol": "E",
+        "exp": 18,
+        "wordShort": "quintillion",
+        "worldLong": "trillion",
+        "adoption": "1975",
+        "prefix": "exa"
+    },
+    "peta": {
+        "symbol": "P",
+        "exp": 15,
+        "wordShort": "quadrillion",
+        "worldLong": "billiard",
+        "adoption": "1975",
+        "prefix": "peta"
+    },
+    "tera": {
+        "symbol": "T",
+        "exp": 12,
+        "wordShort": "trillion",
+        "worldLong": "billion",
+        "adoption": "1960",
+        "prefix": "tera"
+    },
+    "giga": {
+        "symbol": "G",
+        "exp": 9,
+        "wordShort": "billion",
+        "worldLong": "milliard",
+        "adoption": "1960",
+        "prefix": "giga"
+    },
+    "mega": {
+        "symbol": "M",
+        "exp": 6,
+        "wordShort": "million",
+        "worldLong": "",
+        "adoption": "1873",
+        "prefix": "mega"
+    },
+    "kilo": {
+        "symbol": "k",
+        "exp": 3,
+        "wordShort": "thousand",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "kilo"
+    },
+    "hecto": {
+        "symbol": "h",
+        "exp": 2,
+        "wordShort": "hundred",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "hecto"
+    },
+    "deca": {
+        "symbol": "da",
+        "exp": 1,
+        "wordShort": "ten",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "deca"
+    },
+    "deci": {
+        "symbol": "d",
+        "exp": -1,
+        "wordShort": "tenth",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "deci"
+    },
+    "centi": {
+        "symbol": "c",
+        "exp": -2,
+        "wordShort": "hundredth",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "centi"
+    },
+    "milli": {
+        "symbol": "m",
+        "exp": -3,
+        "wordShort": "thousandth",
+        "worldLong": "",
+        "adoption": "1795",
+        "prefix": "milli"
+    },
+    "micro": {
+        "symbol": "μ",
+        "exp": -6,
+        "wordShort": "millionth",
+        "worldLong": "",
+        "adoption": "1873",
+        "prefix": "micro"
+    },
+    "nano": {
+        "symbol": "n",
+        "exp": -9,
+        "wordShort": "billionth",
+        "worldLong": "milliardth",
+        "adoption": "1960",
+        "prefix": "nano"
+    },
+    "pico": {
+        "symbol": "p",
+        "exp": -12,
+        "wordShort": "trillionth",
+        "worldLong": "billionth",
+        "adoption": "1960",
+        "prefix": "pico"
+    },
+    "femto": {
+        "symbol": "f",
+        "exp": -15,
+        "wordShort": "quadrillionth",
+        "worldLong": "billiardth",
+        "adoption": "1964",
+        "prefix": "femto"
+    },
+    "atto": {
+        "symbol": "a",
+        "exp": -18,
+        "wordShort": "quintillionth",
+        "worldLong": "trillionth",
+        "adoption": "1964",
+        "prefix": "atto"
+    },
+    "zepto": {
+        "symbol": "z",
+        "exp": -21,
+        "wordShort": "sextillionth",
+        "worldLong": "trilliardth",
+        "adoption": "1991",
+        "prefix": "zepto"
+    },
+    "yocto": {
+        "symbol": "y",
+        "exp": -24,
+        "wordShort": "septillionth",
+        "worldLong": "quadrillionth",
+        "adoption": "1991",
+        "prefix": "yocto"
+    }
+}
